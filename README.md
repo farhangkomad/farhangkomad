@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farhangkomad
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning PHP and IT
+- 🌱 I’m currently learning Node Js and IT
 - 💞️ I’m looking to collaborate on Something
 - 📫 How to reach me goal!
 
